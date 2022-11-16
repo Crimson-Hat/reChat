@@ -5,13 +5,14 @@ import "firebase/analytics";
 import "firebase/storage";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCcXWSGl6L22lzKBBW-9qUo4FRuqgA2-Oc",
-    authDomain: "rechat-ish.firebaseapp.com",
-    projectId: "rechat-ish",
-    storageBucket: "rechat-ish.appspot.com",
-    messagingSenderId: "541765889629",
-    appId: "1:541765889629:web:eba60f574dc57b9e2aa7b4",
-    measurementId: "G-6Z5XYLD21G"
+      apiKey: "AIzaSyC-_EUK2yZvdX-bQPP7jKDzpv8yBZBuU88",
+      authDomain: "hospital-3daac.firebaseapp.com",
+      databaseURL: "https://hospital-3daac-default-rtdb.firebaseio.com",
+      projectId: "hospital-3daac",
+      storageBucket: "hospital-3daac.appspot.com",
+      messagingSenderId: "457784836577",
+      appId: "1:457784836577:web:36bbf611bc13c72c3e12a0",
+      measurementId: "G-G1NFLRGVWN"
   };
   
 const firebaseInstance = firebase.initializeApp(firebaseConfig);
