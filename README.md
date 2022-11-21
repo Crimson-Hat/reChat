@@ -1,3 +1,3 @@
 # ReChat
 
-<a href="https://rechat.vercel.app">Live Demo</a>
+<a href="https://chat-ish.vercel.app/">Live Demo</a>
