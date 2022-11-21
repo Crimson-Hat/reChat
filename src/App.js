@@ -59,7 +59,7 @@ function App() {
           </motion.div>
         : <Login/>}
       </AnimatePresence>
-      <a class="footer" href="https://github.com/santdas36/rechat">@santdas36</a>
+      <a class="footer" href="https://github.com/curry-bean">@Curry-Bean</a>
     </div>
   );
 }
